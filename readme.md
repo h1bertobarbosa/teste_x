@@ -1,3 +1,11 @@
+#######
+Para rodar os testes executar dentro da pasta do projeto
+vendor/bin/phpunit
+#########
+Acessar as URL
+/etapa1
+/etapa2
+/etapa3
 ## Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
